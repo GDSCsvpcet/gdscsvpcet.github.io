@@ -41,7 +41,7 @@ body{
 .event_container {
 
     position: relative;
-    width: 1000px;
+    width: auto;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
@@ -51,7 +51,7 @@ body{
 .event_container .card {
     position: relative;
     height: 250px;
-    background: #fff;
+    background: rgb(211, 211, 211);
     display: flex;
     width: 45%;
     margin: 30px 0;
