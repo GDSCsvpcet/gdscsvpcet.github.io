@@ -242,6 +242,13 @@ body {
   margin-right: auto;
   width: 2%;
 }
+.codify_center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1cm;
+  width: 50%;
+}
 .ycenter {
   display: block;
   margin-left: auto;
