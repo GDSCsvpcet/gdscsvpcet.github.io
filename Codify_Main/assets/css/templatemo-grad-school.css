@@ -63,7 +63,9 @@ p {
     border: 1px solid rgba(250,250,250,0.9);
 }
 
-
+.li{
+  color: white;
+}
 /* Buttons */
 
 .main-button a {
@@ -602,8 +604,16 @@ section.why-us {
 }
 
 .tabs-content img {
-    width: 100%;
+    width: 70%;
     overflow: hidden;
+    padding-right: 45px;
+}
+
+img {
+    margin-bottom: 50px;
+}
+
+img {
     padding-right: 45px;
 }
 
