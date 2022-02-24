@@ -1556,6 +1556,7 @@ footer p a:hover {
   .main-menu { padding-right: 0!important; }
   .main-header .logo {
     line-height: 73px;
+    align-items: center;
   }
   .main-menu li {
     display: block;
