@@ -7,6 +7,10 @@
   position: relative;
   }
 
+li {
+    color: white;
+}
+
   body:before {
     content: '';
     display: inline-block;
@@ -14,6 +18,12 @@
     font-size: 0;
     height: 100%;
     }
+.image{
+  width: 10%;
+}
+.li{
+  color: white;
+}
 
 h1 {
   display: inline-block;
@@ -42,6 +52,8 @@ h1 {
   
     animation: shad-anim 15s linear infinite;
     }
+
+    
 
 @keyframes shad-anim {
   0% {background-position: 0 0}
