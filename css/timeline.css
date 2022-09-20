@@ -112,7 +112,7 @@ body {
 }
 
 .direction-r .flag:before {
-  left: -40px;
+  left: -36px;
 }
 
 .direction-l .flag:after {
@@ -133,7 +133,7 @@ body {
   content: "";
   position: absolute;
   right: 100%;
-  top: 50%;
+  top: 53%;
   height: 0;
   width: 0;
   margin-top: -8px;
@@ -212,7 +212,7 @@ body {
 .direction-r .flag:before {
   position: absolute;
   top: -30px;
-	left: 50%;
+	left: 53%;
 	content: ' ';
 	display: block;
 	width: 12px;
@@ -228,7 +228,7 @@ body {
 .direction-r .flag:after {
 	content: "";
 	position: absolute;
-	left: 50%;
+	left: 53%;
 	top: -8px;
 	height: 0;
 	width: 0;
