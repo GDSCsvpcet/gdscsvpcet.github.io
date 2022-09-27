@@ -97,7 +97,7 @@ body{
     stroke-linecap: round;
     stroke-linejoin: round;
     stroke-dasharray: 400;
-    
+    margin-left: 500px;
 }
 
 .menu__item.active .icon {
